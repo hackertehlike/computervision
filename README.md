@@ -1,3 +1,3 @@
 # Computer Vision
 
-Repo for learning projects
+Repo for the simple projects I do while learning CV.
